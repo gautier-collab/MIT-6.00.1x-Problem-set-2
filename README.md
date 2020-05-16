@@ -4,7 +4,7 @@ Those are my containerized programs solving the 2nd problem set of the course "I
 
 
 
-You can find the complete instruction for that problem set on edx.org.
+You can find the all the instructions for that problem set on edx.org.
 
 
 
