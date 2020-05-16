@@ -1,2 +1,23 @@
 # MIT-6.00.1x-Problem-set-2
-Containerized programs solving the 2nd problem set of the course "Introduction to Computer Science and Programming Using Python" of the Massachusetts Institute of Technology. 
+
+Those are my containerized programs solving the 2nd problem set of the course "Introduction to Computer Science and Programming Using Python" (MIT 6.00.1x) of the Massachusetts Institute of Technology.
+
+
+
+You can find the complete instruction for that problem set on edx.org.
+
+
+
+Problem 1:
+That program calculates the credit card balance after one year if a person only pays the minimum monthly payment required by the credit card company each month.
+
+Problem 2:
+That program calculates the minimum fixed monthly payment (constant amount that will be paid each month) needed in order pay off a credit card balance within 12 months. 
+
+Problem 3:
+That program serves the same purpose as the program 2 but it uses bisection search in order to be executed faster.
+
+
+
+To execute each of these programs, open the corresponding problem repository in your UNIX terminal and run the following line:
+sudo docker build -t mit-python-problem-2 . && echo -e "\n\n" && sudo docker run -i -t mit-python-problem-2
