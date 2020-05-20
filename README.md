@@ -11,5 +11,4 @@ That program calculates the minimum fixed monthly payment (constant amount that 
 Problem 3:
 That program serves the same purpose as that of the problem 2, but this time it uses bisection search for a faster execution.
 
-For each problem solution, open the corresponding problem directory in your UNIX terminal and run the following command:
-sudo docker build -t mit-python-problem-2 . && echo -e "\n\n" && sudo docker run -i -t mit-python-problem-2
+For each problem solution, open the corresponding problem directory in your UNIX terminal and run the following command: sudo docker build -t mit-python-problem-2 . && echo -e "\n\n" && sudo docker run -i -t mit-python-problem-2
